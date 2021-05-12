@@ -1,0 +1,1 @@
+{"Modules":[{"Source":"./tf_aws_vpc","Key":"1.vpc;./tf_aws_vpc","Version":"","Dir":".terraform/modules/44de1097f01732edb13bb5d6fd71f741","Root":""},{"Source":"./tf_aws_role","Key":"1.volume_admin_role;./tf_aws_role","Version":"","Dir":".terraform/modules/76b970cd1b07117953d641678a285635","Root":""}]}
